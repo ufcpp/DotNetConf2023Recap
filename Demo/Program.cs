@@ -1,1 +1,2 @@
-Console.WriteLine("Hello, World!");
+await SystemTimeProvider.RunAsync();
+//await MyOwnTimeProvider.RunAsync();
