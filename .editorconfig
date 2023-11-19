@@ -5,6 +5,9 @@ charset = utf-8
 end_of_line = lf
 
 [*.{cs,csproj,sln}]
+
+csharp_style_namespace_declarations=file_scoped:suggestion
+
 charset = utf-8
 end_of_line = lf
 insert_final_newline = true
